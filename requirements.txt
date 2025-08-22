@@ -1,0 +1,11 @@
+transformers==4.55.2
+trl==0.21.0
+accelerate>=0.33.0
+datasets>=2.19.0
+pandas
+python-dotenv
+google-generativeai==0.8.5
+google-ai-generativelanguage==0.6.15
+protobuf>=5.26.1,<6
+huggingface_hub>=0.23.0
+safetensors
