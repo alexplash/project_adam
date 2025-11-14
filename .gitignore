@@ -1,2 +1,4 @@
 **/*.env
 **/*episode_logs.jsonl
+**/*numberbatch-en-19.08.txt
+**/*numberbatch-en-19.08.txt.gz
