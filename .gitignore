@@ -4,3 +4,4 @@
 **/*numberbatch-en-19.08.txt.gz
 wandb/
 **/wandb/
+analyze_data.ipynb
