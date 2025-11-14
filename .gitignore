@@ -1,1 +1,2 @@
-colors/.env
+**/*.env
+**/*episode_logs.jsonl
