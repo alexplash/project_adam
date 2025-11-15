@@ -1,6 +1,6 @@
 **/*.env
-**/*episode_logs_pgsrm.jsonl
-**/*episode_logs_binary.jsonl
+**/*episode_logs_gpt2_pgsrm.jsonl
+**/*episode_logs_gpt2_binary.jsonl
 **/*numberbatch-en-19.08.txt
 **/*numberbatch-en-19.08.txt.gz
 wandb/
