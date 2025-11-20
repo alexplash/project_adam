@@ -10,29 +10,6 @@ The repo is organized by task: each task has its own folder, its own dataset of 
 
 ## 📁 Repository Structure
 
-.
-├── test-colors/ # Color Mixing task
-│ ├── gpt2-binary.ipynb
-│ └── gpt2-pgsrm.ipynb
-│
-├── test-opposites/ # Antonym Generation task
-│ ├── gpt2-binary.ipynb
-│ └── gpt2-pgsrm.ipynb
-│
-├── test-categories/ # Word Categorization task
-│ ├── gpt2-binary.ipynb
-│ └── gpt2-pgsrm.ipynb
-│
-├── test-copy/ # Exact-String Copying task
-│ ├── gpt2-binary.ipynb
-│ └── gpt2-pgsrm.ipynb
-│
-├── test-negative/ # Sentiment Inversion task
-│ ├── gpt2-binary.ipynb
-│ └── gpt2-pgsrm.ipynb
-│
-└── prompts/ # All input prompt datasets for each experiment
-
 
 Each folder corresponds to a single RL task:
 
