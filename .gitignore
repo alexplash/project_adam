@@ -6,6 +6,7 @@
 wandb/
 **/wandb/
 analyze_data.ipynb
+venv/
 
 research_data/
 
