@@ -9,6 +9,7 @@ analyze_data.ipynb
 venv/
 
 research_data/
+latex_paper/
 
 **/.DS_Store
 .DS_Store
