@@ -1,7 +1,7 @@
 # PGSRM: Parent-Guided Semantic Reward Model  
 ### Reinforcement Learning Experiments with GPT-2 + Embedding-Based Reward
 
-![Benji](images/image.jpg)
+![](images/image.png)
 
 This repository contains the full code used for the experiments in **Parent-Guided Semantic Reward Models (PGSRM)**.  
 All experiments are implemented as **stand-alone Jupyter notebooks**, with **custom PPO (from-scratch PyTorch) implementations** written directly inside each notebook.
